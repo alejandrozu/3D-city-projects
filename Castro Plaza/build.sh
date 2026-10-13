@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Rebuild the whole model from the public sources. Run from the repository root.
+# Rebuild the whole model from the public sources. Can be run from any directory.
 # Python 3.11+ with: pip install -r requirements.txt   (and Node.js for gltfpack in the last step)
 set -euo pipefail
 cd "$(dirname "$0")"
