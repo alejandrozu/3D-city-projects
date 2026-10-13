@@ -4,7 +4,7 @@ A 3D model of the 200 × 200 m square centred 30 m east of the intersection of C
 
 ![Plaza overview](images/plaza.jpg)
 
-**Open the interactive viewer:** serve [`docs/`](docs/) with any static web server (for example `python3 -m http.server -d docs`), or open the GitHub Pages site if it is enabled for this repository. The viewer has preset views, layer toggles, a sun-position slider for San Francisco, east–west / north–south / height controls, and click-for-details on buildings, planters, benches and the fountain.
+**Interactive viewer: <https://alejandrozu.github.io/castro-market-plaza/>** (or serve [`docs/`](docs/) locally with `python3 -m http.server -d docs`). The viewer has preset views, layer toggles, a sun-position slider for San Francisco, east–west / north–south / height controls, and click-for-details on buildings, planters, benches and the fountain.
 
 **3D files:** [`model/castro-market-model.glb`](model/castro-market-model.glb) (full precision, 40 MB) and [`model/castro-market-model-quantized.glb`](model/castro-market-model-quantized.glb) (24 MB, needs a glTF reader with `KHR_mesh_quantization`, e.g. Blender 2.9+). Units are metres, Y is up, and the origin is the centre of the square. Each building node carries its address, parcel, zoning and LiDAR heights in its `extras`.
 
