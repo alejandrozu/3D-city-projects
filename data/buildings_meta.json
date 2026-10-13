@@ -1,0 +1,1645 @@
+[
+{
+"id": "201006.0015571",
+"mblr": "SF2622060",
+"addr": [
+"336 Castro St",
+"338 Castro St"
+],
+"names": [],
+"ground": 55.57,
+"h_med": 8.97,
+"h_max": 12.36,
+"roof_top": 69.68,
+"area": 261.9,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -33.78,
+"cy": 97.19
+},
+{
+"id": "201006.0035150",
+"mblr": "SF2647003",
+"addr": [
+"430-432 Castro St"
+],
+"names": [],
+"ground": 43.01,
+"h_med": 10.88,
+"h_max": 13.32,
+"roof_top": 56.61,
+"area": 171.4,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": -15.94,
+"cy": -78.69
+},
+{
+"id": "201006.0038635",
+"mblr": "SF2623006",
+"addr": [
+"376 Castro St"
+],
+"names": [
+"RC Gasoline",
+"Castro Car Wash"
+],
+"ground": 47.63,
+"h_med": 3.83,
+"h_max": 4.55,
+"roof_top": 52.09,
+"area": 165.5,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": -30.17,
+"cy": 29.67
+},
+{
+"id": "201006.0039517",
+"mblr": "SF2647053",
+"addr": [
+"33 Collingwood St",
+"37 Collingwood St",
+"35 Collingwood St"
+],
+"names": [],
+"ground": 45.81,
+"h_med": 12.95,
+"h_max": 14.11,
+"roof_top": 60.44,
+"area": 164.2,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -70.56,
+"cy": -91.83
+},
+{
+"id": "201006.0073260",
+"mblr": "SF2647027",
+"addr": [
+"29-31 Collingwood St"
+],
+"names": [],
+"ground": 46.76,
+"h_med": 9.96,
+"h_max": 13.25,
+"roof_top": 57.71,
+"area": 134.5,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -73.6,
+"cy": -84.56
+},
+{
+"id": "201006.0078287",
+"mblr": "SF2623213",
+"addr": [
+"346 Castro St",
+"348 Castro St"
+],
+"names": [],
+"ground": 52.2,
+"h_med": 10.09,
+"h_max": 12.25,
+"roof_top": 65.06,
+"area": 131.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -25.77,
+"cy": 66.81
+},
+{
+"id": "201006.0083170",
+"mblr": "SF2623209",
+"addr": [
+"352 Castro St",
+"354 Castro St"
+],
+"names": [],
+"ground": 51.16,
+"h_med": 10.78,
+"h_max": 13.0,
+"roof_top": 65.46,
+"area": 128.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -25.38,
+"cy": 59.28
+},
+{
+"id": "201006.0148152",
+"mblr": "SF2623001",
+"addr": [
+"340-344 Castro St"
+],
+"names": [],
+"ground": 57.26,
+"h_med": 7.49,
+"h_max": 9.26,
+"roof_top": 68.39,
+"area": 83.6,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -44.19,
+"cy": 74.72
+},
+{
+"id": "201006.0004134",
+"mblr": "SF2647036",
+"addr": [
+"2425 Market St"
+],
+"names": [],
+"ground": 43.8,
+"h_med": 11.23,
+"h_max": 23.04,
+"roof_top": 59.9,
+"area": 751.0,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -42.71,
+"cy": -73.64
+},
+{
+"id": "201006.0006196",
+"mblr": "SF2623086",
+"addr": [
+"37 States St"
+],
+"names": [],
+"ground": 49.78,
+"h_med": 12.14,
+"h_max": 18.84,
+"roof_top": 72.1,
+"area": 546.3,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-2|RH-3"
+],
+"cx": -60.14,
+"cy": 34.52
+},
+{
+"id": "201006.0007897",
+"mblr": "SF2623010",
+"addr": [
+"2450 Market St"
+],
+"names": [],
+"ground": 50.55,
+"h_med": 11.65,
+"h_max": 14.95,
+"roof_top": 66.83,
+"area": 456.8,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -71.71,
+"cy": 1.34
+},
+{
+"id": "201006.0009024",
+"mblr": "SF2647035",
+"addr": [
+"400-410 Castro St"
+],
+"names": [
+"SoulCycle"
+],
+"ground": 43.57,
+"h_med": 10.05,
+"h_max": 17.57,
+"roof_top": 57.2,
+"area": 411.9,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": -18.63,
+"cy": -53.3
+},
+{
+"id": "201006.0022490",
+"mblr": "SF2623009",
+"addr": [
+"2440 Market St"
+],
+"names": [],
+"ground": 49.81,
+"h_med": 11.68,
+"h_max": 13.94,
+"roof_top": 64.63,
+"area": 208.1,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -59.79,
+"cy": 4.23
+},
+{
+"id": "201006.0023707",
+"mblr": "SF2623001",
+"addr": [
+"340-344 Castro St"
+],
+"names": [],
+"ground": 52.75,
+"h_med": 10.19,
+"h_max": 12.46,
+"roof_top": 66.88,
+"area": 202.7,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -26.36,
+"cy": 75.84
+},
+{
+"id": "201006.0028477",
+"mblr": "SF2623091",
+"addr": [
+"2416-2420 Market St"
+],
+"names": [
+"KD's Grog and Groceries"
+],
+"ground": 47.93,
+"h_med": 9.97,
+"h_max": 11.41,
+"roof_top": 59.4,
+"area": 186.3,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": -41.38,
+"cy": 7.9
+},
+{
+"id": "201006.0030111",
+"mblr": "SF2647004",
+"addr": [
+"434-436 Castro St"
+],
+"names": [
+"Thailand Restaurant"
+],
+"ground": 42.64,
+"h_med": 11.13,
+"h_max": 13.73,
+"roof_top": 56.42,
+"area": 182.0,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": -15.69,
+"cy": -86.25
+},
+{
+"id": "201006.0033918",
+"mblr": "SF2647005",
+"addr": [
+"438-440 Castro St"
+],
+"names": [
+"Thailand Restaurant"
+],
+"ground": 42.2,
+"h_med": 10.73,
+"h_max": 11.52,
+"roof_top": 54.44,
+"area": 173.7,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": -15.69,
+"cy": -93.87
+},
+{
+"id": "201006.0046572",
+"mblr": "SF2647028",
+"addr": [
+"23-27 Collingwood St"
+],
+"names": [],
+"ground": 47.32,
+"h_med": 12.06,
+"h_max": 13.71,
+"roof_top": 61.2,
+"area": 155.7,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -71.9,
+"cy": -76.76
+},
+{
+"id": "201006.0047938",
+"mblr": "SF2647025",
+"addr": [
+"43 Collingwood St",
+"39 Collingwood St",
+"41 Collingwood St"
+],
+"names": [],
+"ground": 45.21,
+"h_med": 13.32,
+"h_max": 14.86,
+"roof_top": 59.74,
+"area": 154.3,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -70.36,
+"cy": -99.63
+},
+{
+"id": "201006.0120178",
+"mblr": "SF2623080",
+"addr": [
+"27 States St"
+],
+"names": [],
+"ground": 60.76,
+"h_med": 7.11,
+"h_max": 10.2,
+"roof_top": 69.92,
+"area": 106.6,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-2"
+],
+"cx": -67.05,
+"cy": 65.37
+},
+{
+"id": "201006.0014855",
+"mblr": "SF2647002B",
+"addr": [
+"420-426 Castro St"
+],
+"names": [
+"Louie's Barber Shop",
+"Rossi's Deli",
+"Marcello's Pizza"
+],
+"ground": 43.34,
+"h_med": 5.98,
+"h_max": 12.95,
+"roof_top": 51.68,
+"area": 272.2,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": -16.77,
+"cy": -68.64
+},
+{
+"id": "201006.0014870",
+"mblr": "SF2647006",
+"addr": [
+"444 Castro St"
+],
+"names": [
+"Citibank"
+],
+"ground": 41.75,
+"h_med": 8.93,
+"h_max": 11.83,
+"roof_top": 53.93,
+"area": 271.9,
+"clipped": true,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": -19.26,
+"cy": -102.64
+},
+{
+"id": "201006.0019843",
+"mblr": "SF2623004",
+"addr": [
+"360 Castro St"
+],
+"names": [],
+"ground": 49.39,
+"h_med": 8.71,
+"h_max": 12.29,
+"roof_top": 63.09,
+"area": 222.9,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -29.78,
+"cy": 51.01
+},
+{
+"id": "201006.0022211",
+"mblr": "SF2623081",
+"addr": [
+"25 States St"
+],
+"names": [],
+"ground": 57.26,
+"h_med": 12.1,
+"h_max": 14.63,
+"roof_top": 74.39,
+"area": 209.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-2"
+],
+"cx": -58.58,
+"cy": 62.54
+},
+{
+"id": "201006.0090516",
+"mblr": "SF2623008B",
+"addr": [
+"2430 Market St"
+],
+"names": [],
+"ground": 49.13,
+"h_med": 9.06,
+"h_max": 12.28,
+"roof_top": 62.5,
+"area": 124.0,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": -51.37,
+"cy": 4.49
+},
+{
+"id": "201006.0102766",
+"mblr": "SF2623082",
+"addr": [
+"15-17 States St"
+],
+"names": [],
+"ground": 58.93,
+"h_med": 9.01,
+"h_max": 13.51,
+"roof_top": 74.15,
+"area": 116.7,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-2"
+],
+"cx": -51.93,
+"cy": 68.85
+},
+{
+"id": "201006.0011231",
+"mblr": "SF3582104",
+"addr": [
+"449 Castro St",
+"451 Castro St",
+"445 Castro St"
+],
+"names": [
+"CarePlus / CVS"
+],
+"ground": 41.2,
+"h_med": 6.03,
+"h_max": 7.47,
+"roof_top": 48.61,
+"area": 343.6,
+"clipped": true,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 32.55,
+"cy": -104.51
+},
+{
+"id": "201006.0042762",
+"mblr": "SF3562014",
+"addr": [
+"2378-2380 Market St"
+],
+"names": [],
+"ground": 45.36,
+"h_med": 8.46,
+"h_max": 12.3,
+"roof_top": 58.46,
+"area": 160.0,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 32.41,
+"cy": 60.62
+},
+{
+"id": "201006.0077227",
+"mblr": "SF3562018",
+"addr": [
+"321-323 Castro St"
+],
+"names": [],
+"ground": 49.82,
+"h_med": 10.03,
+"h_max": 12.33,
+"roof_top": 63.11,
+"area": 132.0,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 15.35,
+"cy": 82.91
+},
+{
+"id": "201006.0078267",
+"mblr": "SF3562019",
+"addr": [
+"317 Castro St"
+],
+"names": [],
+"ground": 53.16,
+"h_med": 9.52,
+"h_max": 10.33,
+"roof_top": 63.95,
+"area": 131.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 14.77,
+"cy": 90.54
+},
+{
+"id": "201006.0078427",
+"mblr": "SF3562017",
+"addr": [
+"325-375 Castro St"
+],
+"names": [],
+"ground": 49.8,
+"h_med": 9.66,
+"h_max": 10.99,
+"roof_top": 62.2,
+"area": 131.3,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 13.06,
+"cy": 72.54
+},
+{
+"id": "201006.0081923",
+"mblr": "SF3563040",
+"addr": [
+"3930 17Th St",
+"3932 17Th St"
+],
+"names": [],
+"ground": 41.32,
+"h_med": 10.95,
+"h_max": 11.99,
+"roof_top": 52.97,
+"area": 129.1,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 131.15,
+"cy": 13.17
+},
+{
+"id": "201006.0002982",
+"mblr": "SF3563044",
+"addr": [
+"2355 Market St"
+],
+"names": [
+"One Medical"
+],
+"ground": 42.4,
+"h_med": 6.13,
+"h_max": 10.18,
+"roof_top": 51.26,
+"area": 976.4,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 88.07,
+"cy": 20.63
+},
+{
+"id": "201006.0004920",
+"mblr": "SF3562015",
+"addr": [
+"2390 Market St"
+],
+"names": [],
+"ground": 45.6,
+"h_med": 1.07,
+"h_max": 11.0,
+"roof_top": 57.41,
+"area": 660.0,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 19.55,
+"cy": 48.94
+},
+{
+"id": "201006.0005352",
+"mblr": "SF3563030",
+"addr": [
+"2317-2335 Market St"
+],
+"names": [
+"Crystal Way",
+"Klein Epstein Parker",
+"Stag & Manor",
+"Entour"
+],
+"ground": 42.38,
+"h_med": 7.51,
+"h_max": 9.77,
+"roof_top": 52.45,
+"area": 617.6,
+"clipped": true,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 138.7,
+"cy": 90.02
+},
+{
+"id": "201006.0007773",
+"mblr": "SF3563036",
+"addr": [
+"3970 17Th St"
+],
+"names": [
+"Gada",
+"One Medical",
+"The Caf\u00e9"
+],
+"ground": 43.43,
+"h_med": 10.15,
+"h_max": 12.6,
+"roof_top": 56.98,
+"area": 462.6,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 73.86,
+"cy": 19.44
+},
+{
+"id": "201006.0009586",
+"mblr": "SF3562035",
+"addr": [
+"2370 Market St"
+],
+"names": [],
+"ground": 45.26,
+"h_med": 5.34,
+"h_max": 11.99,
+"roof_top": 57.77,
+"area": 392.4,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 39.03,
+"cy": 71.6
+},
+{
+"id": "201006.0026772",
+"mblr": "SF3563027",
+"addr": [
+"2347-2349 Market St"
+],
+"names": [
+"CORE MVMT"
+],
+"ground": 44.14,
+"h_med": 11.32,
+"h_max": 13.24,
+"roof_top": 57.26,
+"area": 191.3,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 105.93,
+"cy": 52.74
+},
+{
+"id": "201006.0030097",
+"mblr": "SF3562010",
+"addr": [
+"2358-2360 Market St"
+],
+"names": [],
+"ground": 44.82,
+"h_med": 5.33,
+"h_max": 10.65,
+"roof_top": 55.31,
+"area": 182.0,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 58.18,
+"cy": 88.97
+},
+{
+"id": "201006.0030338",
+"mblr": "SF3562009",
+"addr": [
+"2352-2356 Market St"
+],
+"names": [
+"Smooth Operator SF"
+],
+"ground": 44.77,
+"h_med": 7.54,
+"h_max": 10.16,
+"roof_top": 55.17,
+"area": 181.4,
+"clipped": true,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 63.18,
+"cy": 94.64
+},
+{
+"id": "201006.0048343",
+"mblr": "SF3562008",
+"addr": [
+"2350 Market St"
+],
+"names": [],
+"ground": 44.61,
+"h_med": 8.31,
+"h_max": 10.07,
+"roof_top": 55.02,
+"area": 153.9,
+"clipped": true,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 68.52,
+"cy": 99.77
+},
+{
+"id": "201006.0050520",
+"mblr": "SF3563015B",
+"addr": [
+"3938 17Th St"
+],
+"names": [],
+"ground": 41.69,
+"h_med": 7.18,
+"h_max": 8.29,
+"roof_top": 50.1,
+"area": 151.7,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 119.2,
+"cy": 15.48
+},
+{
+"id": "201006.0012342",
+"mblr": "SF3562011",
+"addr": [
+"2362 Market St"
+],
+"names": [
+"Catch"
+],
+"ground": 44.99,
+"h_med": 0.46,
+"h_max": 7.58,
+"roof_top": 54.07,
+"area": 317.1,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 50.24,
+"cy": 83.39
+},
+{
+"id": "201006.0014405",
+"mblr": "SF3563029",
+"addr": [
+"2337-2339 Market St"
+],
+"names": [
+"Zona Rosa"
+],
+"ground": 43.08,
+"h_med": 12.18,
+"h_max": 14.24,
+"roof_top": 58.47,
+"area": 278.7,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 120.54,
+"cy": 62.41
+},
+{
+"id": "201006.0015112",
+"mblr": "SF3563026",
+"addr": [
+"2351 Market St"
+],
+"names": [
+"Rolo"
+],
+"ground": 43.52,
+"h_med": 6.49,
+"h_max": 11.29,
+"roof_top": 52.78,
+"area": 268.3,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 99.94,
+"cy": 43.81
+},
+{
+"id": "201006.0015402",
+"mblr": "SF3562007",
+"addr": [
+"2342-2348 Market St"
+],
+"names": [
+"MX3 Fitness"
+],
+"ground": 44.3,
+"h_med": 5.23,
+"h_max": 8.66,
+"roof_top": 49.8,
+"area": 264.2,
+"clipped": true,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 79.1,
+"cy": 105.47
+},
+{
+"id": "201006.0015645",
+"mblr": "SF3563028",
+"addr": [
+"2341-2345 Market St"
+],
+"names": [
+"Wela Thai Massage"
+],
+"ground": 43.65,
+"h_med": 11.94,
+"h_max": 14.74,
+"roof_top": 58.48,
+"area": 260.9,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCT"
+],
+"cx": 113.13,
+"cy": 58.46
+},
+{
+"id": "201006.0016928",
+"mblr": "SF3563017",
+"addr": [
+"3946-3952 17Th St"
+],
+"names": [],
+"ground": 41.84,
+"h_med": 11.7,
+"h_max": 12.91,
+"roof_top": 55.33,
+"area": 246.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 104.74,
+"cy": 10.14
+},
+{
+"id": "201006.0155660",
+"mblr": "SF3563016",
+"addr": [
+"3942 17Th St"
+],
+"names": [],
+"ground": 41.92,
+"h_med": 9.07,
+"h_max": 10.01,
+"roof_top": 52.07,
+"area": 70.6,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 113.54,
+"cy": 7.61
+},
+{
+"id": "201006.0090117",
+"mblr": "SF3562020",
+"addr": [
+"315 Castro St"
+],
+"names": [],
+"ground": 54.18,
+"h_med": 10.81,
+"h_max": 12.24,
+"roof_top": 66.94,
+"area": 124.2,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 17.18,
+"cy": 98.52
+},
+{
+"id": "201006.0101343",
+"mblr": "SF3563015A",
+"addr": [
+"3936 17Th St"
+],
+"names": [],
+"ground": 41.68,
+"h_med": 7.19,
+"h_max": 9.79,
+"roof_top": 49.86,
+"area": 117.6,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 124.65,
+"cy": 15.52
+},
+{
+"id": "201006.0034748",
+"mblr": "SF3582099",
+"addr": [
+"39 Hartford St",
+"37 Hartford St"
+],
+"names": [],
+"ground": 36.39,
+"h_med": 11.01,
+"h_max": 13.14,
+"roof_top": 50.1,
+"area": 172.1,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 129.94,
+"cy": -81.85
+},
+{
+"id": "201006.0038142",
+"mblr": "SF3582094",
+"addr": [
+"33 Hartford St",
+"35 Hartford St"
+],
+"names": [],
+"ground": 36.88,
+"h_med": 11.06,
+"h_max": 12.45,
+"roof_top": 50.02,
+"area": 166.2,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 128.53,
+"cy": -74.78
+},
+{
+"id": "201006.0039765",
+"mblr": "SF3582075",
+"addr": [
+"3979-3981 17Th St"
+],
+"names": [],
+"ground": 43.14,
+"h_med": 10.24,
+"h_max": 12.11,
+"roof_top": 55.92,
+"area": 163.9,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 50.34,
+"cy": -37.29
+},
+{
+"id": "201006.0070236",
+"mblr": "SF3582080",
+"addr": [
+"3935-3937 17Th St"
+],
+"names": [],
+"ground": 40.2,
+"h_med": 10.3,
+"h_max": 11.88,
+"roof_top": 52.14,
+"area": 136.5,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 129.1,
+"cy": -29.24
+},
+{
+"id": "201006.0073731",
+"mblr": "SF3582038",
+"addr": [
+"20 Hartford St"
+],
+"names": [],
+"ground": 41.02,
+"h_med": 9.54,
+"h_max": 22.05,
+"roof_top": 51.91,
+"area": 134.2,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 81.52,
+"cy": -55.65
+},
+{
+"id": "201006.0076560",
+"mblr": "SF3582101",
+"addr": [
+"42 Hartford St",
+"40 Hartford St"
+],
+"names": [],
+"ground": 38.6,
+"h_med": 8.81,
+"h_max": 10.97,
+"roof_top": 50.09,
+"area": 132.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 85.66,
+"cy": -93.23
+},
+{
+"id": "201006.0135460",
+"mblr": "SF3582076",
+"addr": [
+"3975-3977 17Th St"
+],
+"names": [
+"Nice Cuts"
+],
+"ground": 42.84,
+"h_med": 8.62,
+"h_max": 9.33,
+"roof_top": 52.74,
+"area": 95.8,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 57.88,
+"cy": -33.25
+},
+{
+"id": "201006.0138370",
+"mblr": "SF3582037",
+"addr": [
+"19 Hartford St"
+],
+"names": [],
+"ground": 39.69,
+"h_med": 9.43,
+"h_max": 10.46,
+"roof_top": 50.41,
+"area": 93.7,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 121.53,
+"cy": -51.31
+},
+{
+"id": "201006.0001998",
+"mblr": "SF3582085",
+"addr": [
+"429-431 Castro St"
+],
+"names": [
+"Castro Theatre"
+],
+"ground": 41.43,
+"h_med": 16.97,
+"h_max": 21.72,
+"roof_top": 65.21,
+"area": 1370.0,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 40.47,
+"cy": -73.3
+},
+{
+"id": "201006.0007348",
+"mblr": "SF3582077A",
+"addr": [
+"3951-3959 17Th St"
+],
+"names": [],
+"ground": 40.87,
+"h_med": 14.23,
+"h_max": 19.43,
+"roof_top": 58.19,
+"area": 480.3,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 84.36,
+"cy": -37.11
+},
+{
+"id": "201006.0024937",
+"mblr": "SF3582074",
+"addr": [
+"3983-3985 17Th St"
+],
+"names": [
+"Cafe de Casa"
+],
+"ground": 43.43,
+"h_med": 11.56,
+"h_max": 12.79,
+"roof_top": 57.27,
+"area": 197.7,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 42.55,
+"cy": -38.57
+},
+{
+"id": "201006.0026256",
+"mblr": "SF3582078",
+"addr": [
+"3947 17Th St",
+"15 Hartford St",
+"3943 17Th St"
+],
+"names": [],
+"ground": 40.67,
+"h_med": 11.87,
+"h_max": 13.7,
+"roof_top": 54.28,
+"area": 192.9,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 113.9,
+"cy": -33.14
+},
+{
+"id": "201006.0028070",
+"mblr": "SF3582066",
+"addr": [
+"441-443 Castro St"
+],
+"names": [
+"U.S. Bank"
+],
+"ground": 42.07,
+"h_med": 6.55,
+"h_max": 13.2,
+"roof_top": 49.84,
+"area": 187.5,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 31.32,
+"cy": -92.95
+},
+{
+"id": "201006.0030887",
+"mblr": "SF3582032",
+"addr": [
+"41-43 Hartford St"
+],
+"names": [],
+"ground": 35.15,
+"h_med": 11.52,
+"h_max": 13.26,
+"roof_top": 49.55,
+"area": 180.1,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 131.25,
+"cy": -89.39
+},
+{
+"id": "201006.0031690",
+"mblr": "SF3582077",
+"addr": [
+"3969-3973 17Th St"
+],
+"names": [],
+"ground": 42.52,
+"h_med": 14.63,
+"h_max": 16.31,
+"roof_top": 58.92,
+"area": 178.3,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 65.63,
+"cy": -37.16
+},
+{
+"id": "201006.0050824",
+"mblr": "SF3582107",
+"addr": [
+"3939 17Th St",
+"3941 17Th St"
+],
+"names": [],
+"ground": 40.25,
+"h_med": 11.06,
+"h_max": 13.19,
+"roof_top": 53.57,
+"area": 151.4,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RTO-C"
+],
+"cx": 122.01,
+"cy": -31.57
+},
+{
+"id": "201006.0054273",
+"mblr": "SF3582096",
+"addr": [
+"31 Hartford St",
+"29 Hartford St",
+"27 Hartford St"
+],
+"names": [],
+"ground": 38.0,
+"h_med": 12.75,
+"h_max": 14.5,
+"roof_top": 53.15,
+"area": 148.3,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 125.6,
+"cy": -66.54
+},
+{
+"id": "201006.0118050",
+"mblr": "SF3582039",
+"addr": [
+"24 Hartford St"
+],
+"names": [],
+"ground": 40.48,
+"h_med": 9.25,
+"h_max": 10.85,
+"roof_top": 51.51,
+"area": 107.9,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 83.02,
+"cy": -62.97
+},
+{
+"id": "201006.0120019",
+"mblr": "SF3582041",
+"addr": [
+"32 Hartford St"
+],
+"names": [],
+"ground": 39.72,
+"h_med": 9.04,
+"h_max": 10.74,
+"roof_top": 50.69,
+"area": 106.7,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 83.78,
+"cy": -78.42
+},
+{
+"id": "201006.0124441",
+"mblr": "SF3582036",
+"addr": [
+"25 Hartford St"
+],
+"names": [],
+"ground": 38.96,
+"h_med": 10.24,
+"h_max": 12.34,
+"roof_top": 50.09,
+"area": 103.8,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 122.64,
+"cy": -58.96
+},
+{
+"id": "201006.0126607",
+"mblr": "SF3582044",
+"addr": [
+"44 Hartford St"
+],
+"names": [],
+"ground": 38.21,
+"h_med": 9.15,
+"h_max": 10.77,
+"roof_top": 49.05,
+"area": 102.3,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 87.5,
+"cy": -100.71
+},
+{
+"id": "201006.0021120",
+"mblr": "SF3582072",
+"addr": [
+"3997 17Th St",
+"3991-3993 17Th St"
+],
+"names": [
+"Orphan Andy's",
+"Castro Tattoo"
+],
+"ground": 43.88,
+"h_med": 12.19,
+"h_max": 14.23,
+"roof_top": 58.62,
+"area": 214.7,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 26.65,
+"cy": -39.4
+},
+{
+"id": "201006.0021606",
+"mblr": "SF3582071",
+"addr": [
+"3997 17Th St"
+],
+"names": [
+"Hot Cookie",
+"Lisa Hair Design",
+"Castro Coffee Company",
+"Pizzalicious",
+"Twin Peaks Tavern",
+"Castro Smoke House"
+],
+"ground": 43.81,
+"h_med": 9.79,
+"h_max": 17.47,
+"roof_top": 57.0,
+"area": 212.4,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 19.45,
+"cy": -44.72
+},
+{
+"id": "201006.0085429",
+"mblr": "SF3582031",
+"addr": [
+"45 Hartford St"
+],
+"names": [],
+"ground": 35.14,
+"h_med": 10.8,
+"h_max": 13.05,
+"roof_top": 49.17,
+"area": 127.0,
+"clipped": true,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 127.44,
+"cy": -97.72
+},
+{
+"id": "201006.0086985",
+"mblr": "SF3582073",
+"addr": [
+"3987-3989 17Th St"
+],
+"names": [
+"Eureka Sky"
+],
+"ground": 43.95,
+"h_med": 9.42,
+"h_max": 12.39,
+"roof_top": 56.71,
+"area": 126.1,
+"clipped": false,
+"commercial": true,
+"zoning": [
+"NCD"
+],
+"cx": 34.41,
+"cy": -36.07
+},
+{
+"id": "201006.0087559",
+"mblr": "SF3582040",
+"addr": [
+"28 Hartford St"
+],
+"names": [],
+"ground": 40.12,
+"h_med": 8.84,
+"h_max": 10.82,
+"roof_top": 51.06,
+"area": 125.8,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 84.43,
+"cy": -70.25
+},
+{
+"id": "201006.0095997",
+"mblr": "SF3582042",
+"addr": [
+"36 Hartford St"
+],
+"names": [],
+"ground": 39.23,
+"h_med": 9.02,
+"h_max": 10.81,
+"roof_top": 50.44,
+"area": 120.7,
+"clipped": false,
+"commercial": false,
+"zoning": [
+"RH-3"
+],
+"cx": 84.92,
+"cy": -85.1
+}
+]

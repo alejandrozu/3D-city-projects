@@ -1,0 +1,23 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#cfd8de}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script></head>
+<body><script type="module">
+import * as THREE from 'three';
+import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
+const q=new URLSearchParams(location.search);
+const W=+q.get('w')||1400,H=+q.get('h')||900;
+const r=new THREE.WebGLRenderer({antialias:true,preserveDrawingBuffer:true}); r.setSize(W,H); r.shadowMap.enabled=true; r.shadowMap.type=THREE.PCFSoftShadowMap;
+r.outputColorSpace=THREE.SRGBColorSpace; r.toneMapping=THREE.ACESFilmicToneMapping; r.toneMappingExposure=1.0;
+document.body.appendChild(r.domElement);
+const s=new THREE.Scene(); s.background=new THREE.Color('#cfdbe4');
+const cam=new THREE.PerspectiveCamera(+q.get('fov')||45,W/H,0.3,3000);
+const [cx,cy,cz]=(q.get('cam')||'180,160,180').split(',').map(Number); const [tx,ty,tz]=(q.get('tgt')||'0,10,0').split(',').map(Number);
+cam.position.set(cx,cy,cz); cam.lookAt(tx,ty,tz);
+s.add(new THREE.HemisphereLight(0xdfe9f3,0x6b5f52,1.1));
+const sun=new THREE.DirectionalLight(0xfff3e0,2.2); sun.position.set(-120,180,90); sun.castShadow=true;
+sun.shadow.mapSize.set(4096,4096); Object.assign(sun.shadow.camera,{left:-150,right:150,top:150,bottom:-150,near:10,far:600}); sun.shadow.bias=-0.0004; sun.shadow.normalBias=0.03;
+s.add(sun);
+new GLTFLoader().load(q.get('f')||'castro.glb',g=>{
+  g.scene.traverse(o=>{ if(o.isMesh){o.castShadow=true;o.receiveShadow=true; if(o.material.name==='ground'){o.material.map.anisotropy=8;}}});
+  s.add(g.scene); r.render(s,cam); document.title='done';
+},undefined,e=>{document.title='error '+e});
+</script></body></html>

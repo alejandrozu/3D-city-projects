@@ -1,0 +1,13 @@
+numpy
+scipy
+shapely>=2.0
+pyproj
+rasterio
+pillow
+matplotlib
+trimesh
+mapbox_earcut
+triangle
+pyfqmr
+scikit-image
+laspy[lazrs]

@@ -1,0 +1,184 @@
+{
+ "labels": [
+  {
+   "name": "Castro St & Market St",
+   "sub": "Intersection \u00b7 origin of the local grid (0, 0)",
+   "x": 0.0,
+   "y": 0.0,
+   "z": 46.44,
+   "cat": "origin"
+  },
+  {
+   "name": "Square centre",
+   "sub": "30 m east of the intersection",
+   "x": 30.0,
+   "y": 0.0,
+   "z": 45.87,
+   "cat": "origin"
+  },
+  {
+   "name": "New plaza",
+   "sub": "Former Chevron triangle \u00b7 746 m\u00b2",
+   "x": 58.42,
+   "y": 6.86,
+   "z": 53.1,
+   "cat": "focus"
+  },
+  {
+   "name": "The Caf\u00e9",
+   "sub": "2369 Market St \u00b7 bar",
+   "x": 76.8,
+   "y": 30.0,
+   "z": 57.78,
+   "cat": "poi"
+  },
+  {
+   "name": "Castro Theatre",
+   "sub": "429 Castro St \u00b7 1922",
+   "x": 40.47,
+   "y": -73.3,
+   "z": 66.01,
+   "cat": "poi"
+  },
+  {
+   "name": "Twin Peaks Tavern",
+   "sub": "401 Castro St",
+   "x": 11.45,
+   "y": -40.72,
+   "z": 57.8,
+   "cat": "poi"
+  },
+  {
+   "name": "Rainbow flag",
+   "sub": "Harvey Milk Plaza \u00b7 25 m pole",
+   "x": -39.4,
+   "y": -38.8,
+   "z": 75.17,
+   "cat": "poi"
+  },
+  {
+   "name": "Harvey Milk Plaza",
+   "sub": "Castro Station entrance",
+   "x": -37.42,
+   "y": -44.83,
+   "z": 45.46,
+   "cat": "place"
+  },
+  {
+   "name": "Jane Warner Plaza",
+   "sub": "",
+   "x": 27.52,
+   "y": -13.83,
+   "z": 47.36,
+   "cat": "place"
+  },
+  {
+   "name": "F line terminal",
+   "sub": "17th St & Castro St",
+   "x": 50.0,
+   "y": -17.5,
+   "z": 48.08,
+   "cat": "place"
+  },
+  {
+   "name": "States St",
+   "sub": "-176\u00b0",
+   "x": -35.38,
+   "y": 86.62,
+   "z": 57.15,
+   "cat": "street"
+  },
+  {
+   "name": "Hartford St",
+   "sub": "-86\u00b0",
+   "x": 103.03,
+   "y": -53.44,
+   "z": 40.57,
+   "cat": "street"
+  },
+  {
+   "name": "Market St",
+   "sub": "44\u00b0",
+   "x": 82.1,
+   "y": 64.79,
+   "z": 44.73,
+   "cat": "street"
+  },
+  {
+   "name": "17th St",
+   "sub": "-176\u00b0",
+   "x": 90.88,
+   "y": -13.55,
+   "z": 42.94,
+   "cat": "street"
+  },
+  {
+   "name": "Castro St",
+   "sub": "95\u00b0",
+   "x": 2.27,
+   "y": -29.13,
+   "z": 46.11,
+   "cat": "street"
+  }
+ ],
+ "cards": {
+  "plaza": {
+   "title": "New plaza \u00b7 former Chevron triangle",
+   "rows": [
+    [
+     "Outline",
+     "Every point 5 m from the roadway; east side is the wall of 3970 17th St"
+    ],
+    [
+     "Area",
+     "746 m\u00b2 (old station lots 680 m\u00b2, curb-to-curb triangle 1204 m\u00b2)"
+    ],
+    [
+     "Planters",
+     "24 stainless-steel boxes, 70 cm tall and 70 cm deep, flush with the edge, in 4 stretches of 6 with 10 cm joints; red at the corners (cut to meet the wall), purple at the openings"
+    ],
+    [
+     "Openings",
+     "The point is open, plus a 5 m gap in the middle of the north and south sides"
+    ],
+    [
+     "Flowers",
+     "Red geraniums, orange marigolds, yellow rudbeckia, green zinnias, blue hydrangeas, purple lavender"
+    ],
+    [
+     "Benches",
+     "14: four per stretch on the Market side, three on the 17th St side; parallel to the sides, facing in; slats in pride order"
+    ],
+    [
+     "Mural",
+     "Abstract flowing rainbow on the blank east wall (3970 17th St), 35 m long"
+    ],
+    [
+     "Fountain",
+     "6.0 m: white marble basin (56 cm seat) and pedestal, then six cascading pools, largest at the bottom"
+    ],
+    [
+     "Pool stones",
+     "Top to bottom: Red jasper \u00b7 Orange alabaster \u00b7 Yellow calcite \u00b7 Verdite \u00b7 Sodalite \u00b7 Porphyry"
+    ],
+    [
+     "Seat stones",
+     "Red jasper \u00b7 Carnelian \u00b7 Yellow jasper \u00b7 Nephrite jade \u00b7 Sodalite \u00b7 Purple porphyry"
+    ],
+    [
+     "Tile rings",
+     "Six glazed rainbow rings around the basin (purple inside, red outside), alternating with rings of the plaza stone; the paving radiates outward in hexagonal courses"
+    ],
+    [
+     "Statues",
+     "Two 1.5 m marble figures holding hands, facing the Harvey Milk Plaza flag; total height 7.5 m"
+    ],
+    [
+     "Grade",
+     "Fountain base 45.00 m NAVD88"
+    ]
+   ],
+   "note": "The figures are posed from the open-licence MakeHuman body; hair, wreath, ribbon and drapery are modelled for this piece."
+  }
+ }
+}
